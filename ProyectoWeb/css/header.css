@@ -21,9 +21,13 @@ header {
 .header-banner {
     width: 100%;
     text-align: center;
-    font-size: 16px;
     background-color: var(--blue);
     border-bottom: 1px solid var(--shadow);
+}
+
+.header-banner h5 {
+    font-size: 12px;
+    color: var(--black)
 }
 
 .logo {
