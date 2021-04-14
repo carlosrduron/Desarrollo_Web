@@ -12,6 +12,7 @@
 
 header {
     padding-bottom: 2em;
+    margin-bottom:10vh;
     height: 200px;
     background-color: white;
     border-bottom: 1px solid var(--shadow);
