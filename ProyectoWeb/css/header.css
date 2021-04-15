@@ -38,7 +38,13 @@ header {
 }
 
 .logo-image {
+    margin-left: auto;
+    position: static;
     width: 200px;
+}
+
+.logo a {
+    margin-left: auto;
 }
 
 .navbar {
