@@ -18,7 +18,7 @@
 main {
     padding: 5em;
     min-height: calc(100vh - 105px);
-    text-align: center;
+    text-align: left;
     background-color: var(--white);
 }
 
