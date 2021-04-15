@@ -3,7 +3,7 @@
     --green: #c6e4de;
     --blue: #b0daf0;
     --salmon: #FDD5D5;
-    --h_c: #fff0f0;
+    --h_c: #fff;
     --shadow: rgba(0, 0, 0, 0.2);
     --white: #fff;
     --black: #000;
@@ -37,7 +37,7 @@ main {
 
 .sliderContainer h2 {
     font-size: 28px;
-    color: #eb9191
+    color: black
 }
 
 .slider {
